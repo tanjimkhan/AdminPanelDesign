@@ -1,0 +1,140 @@
+
+
+.container{
+	width:640px;
+	margin:15% auto;
+	height:800px;
+	background-color:transparent;
+	opacity: 10%
+}
+
+body {
+	background:url(../img/bg.jpg);
+	background-size:cover;
+
+}
+
+h2 {
+	font-family: 'Courgette', cursive;
+	font-size: 40px;
+	color: #fff;
+	text-align: center;
+	text-transform: capitalize;
+}
+
+.login{
+	padding: 5px
+}
+
+
+.login img {
+	height: 200px;
+	margin: 0  auto;
+	display: block;
+	;
+
+}
+
+.img h2 {
+	font-family: 'Courgette', cursive;
+	font-size: 40px;
+	color: #5E0604;
+	text-align: center;
+	text-transform: capitalize;
+}
+
+.form-control{
+	width: 92%;
+	height: 30px;
+	margin-bottom: 10px;
+	border: 3px outset #b85959;
+	border-radius: 16px;
+	display: block;
+	margin: auto auto 18px auto;
+	padding: 5px;
+	font-size: 17px;width: 92%;
+	height: 30px;
+	margin-bottom: 10px;
+	border: 2px solid #b85959;
+	border-radius: 16px;
+	display: block;
+	margin: auto auto 18px auto;
+	background: #ffe6e6;
+}
+
+
+.button {
+	background: #912627;
+	padding: 10px 100px;
+	margin: auto;
+	display: block;
+	border-radius: 20px;
+	color: #fff;
+	font-family:  'Courgette', cursive;
+	font-size: 23px;
+	border: 5px outset;
+	box-shadow: 1px 4px 10px white;
+	margin-bottom: 5px;
+	transition: ease 1s
+}
+
+.button:hover {
+	background: #fff;
+	padding: 10px 100px;
+	margin: auto;
+	display: block;
+	border-radius: 0px;
+	color:#912627;
+	font-family:  'Courgette', cursive;
+	font-size: 23px;
+	border: 5px outset;
+	box-shadow: 1px 4px 10px white
+	margin-bottom: 5px;
+}
+
+h3 {
+	font-family: 'Courgette', cursive;
+	color: #fff;
+	text-transform: capitalize;
+}
+
+.signup {
+	background: #fff;
+	padding: 6px 40px;
+	border-radius: 0px;
+	color: #912627;
+	font-family: 'Courgette', cursive;
+	font-size: 16px;
+	border: 5px outset;
+	transition: ease 0.5s
+}
+.signup:hover {
+	background: #fff;
+	padding: 6px 40px;
+	border-radius: 16px;
+	color: #912627;
+	font-family: 'Courgette', cursive;
+	font-size: 16px;
+	border: 5px outset;
+	background-color: pink
+}
+
+.name {
+	width: 92%;
+	height: 30px;
+	margin-bottom: 10px;
+	border: 3px outset #b85959;
+	border-radius: 16px;
+	display: block;
+	margin: auto auto 18px auto;
+	padding: 5px;
+	font-size: 17px;
+  	background: #ffe6e6;
+}
+
+label{
+	font-family: 'Courgette', cursive;
+	color: #fff;
+	text-transform: capitalize;
+	font-size: 16px
+}
