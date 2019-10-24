@@ -2,7 +2,7 @@
 
 .container{
 	width:640px;
-	margin:5% auto;
+	margin:2% auto;
 	height:800px;
 	background-color:transparent;
 	
@@ -135,6 +135,6 @@ h3 {
 label{
 	font-family: 'Courgette', cursive;
 	color: #fff;
-	text-transform: capitalize;
+	text-transform: capitalize; 
 	font-size: 16px
 }
